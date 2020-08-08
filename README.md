@@ -1,3 +1,3 @@
-# ![Egghead Logo](.github/egghead-logo.svg) Egghead Projects
+# ![Egghead Logo](.github/egghead-logo.png) Egghead Projects
 
-> Implemented out projects in [Egghead](https://egghead.io/) courses.
+> Implemented projects in [Egghead](https://egghead.io/) courses.
